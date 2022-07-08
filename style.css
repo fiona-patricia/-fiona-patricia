@@ -1,0 +1,122 @@
+#navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+#container {
+    display: flex;
+    padding: 100px;
+    background: rgb(255,181,167);
+background: radial-gradient(circle, rgba(255,181,167,1) 0%, rgba(252,213,206,1) 53%, rgba(255,255,255,1) 100%);
+}
+
+#tulisan {
+    padding: 30px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: xx-large;
+}
+
+#container2 {
+    display: flex;
+    padding: 100px;
+    
+}
+
+#aboutme {
+    padding: 30px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+    text-align: justify;
+    
+}
+
+#Resume {
+    padding: 100px;
+    margin-top: -100px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: medium;
+}
+
+
+#containerresume{
+    display: flex;
+    
+}
+
+#containerresume2{
+    margin-left: 225px;
+    margin-top: -45px;
+}
+
+#Works{
+    padding: 100px;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 50px;
+}
+
+#container-card {
+    margin-top: -50px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Varela Round', sans-serif;
+    text-align: justify;
+    justify-content: center;
+  }
+
+.card-work-typography{
+    margin-top: -5px;
+}
+
+.card-work-semar{
+    margin-top: 10px;
+}
+.card-work-unispace{
+    margin-top: 10px;
+}
+.card-work-jimin{
+    margin-top: 20px;
+}
+.card-work-unispace{
+    margin-top: 10px;
+}
+.card-work-spring{
+    margin-top: 20px;
+}
+
+#icon{
+    display: flex;
+    margin-top: -100px;
+    margin-left: 1000px;
+    text-align: right;
+}
+
+#Contact{
+    padding: 100px;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    background: rgb(255,181,167);
+    background: radial-gradient(circle, rgba(255,181,167,1) 0%, rgba(252,213,206,1) 53%, rgba(255,255,255,1) 100%);
+}
+
+#container-contact {
+    display: flex;
+    justify-content: center;
+    margin-top: -80px;
+    margin-bottom: 0px;
+    
+}
+
+#containercontact{
+    padding: 10px;
+    margin-bottom: 0px;
+    display: flex;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+
+}
